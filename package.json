@@ -1,0 +1,23 @@
+{
+  "name": "vue-picker-color",
+  "version": "1.0.0",
+  "description": "un picker-color rgb",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olygood/vue-picker-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olygood/vue-picker-color/issues"
+  },
+  "homepage": "https://github.com/olygood/vue-picker-color#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
+}
